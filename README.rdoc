@@ -4,4 +4,4 @@ Poskusna aplikacija
 == Priprava
 
     1. prompt
-	2. promeniti direktorijum
+    2. promeniti direktorijum
